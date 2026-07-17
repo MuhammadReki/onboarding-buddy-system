@@ -19,13 +19,13 @@ Sistem bimbingan akademik berbasis RAG (Retrieval-Augmented Generation) yang ber
 8. **Chat Output** - Output jawaban
 
 ## 📸 Tampilan Flow Langflow
-![Flow Langflow](images/Main Flow Canvas_MUHAMMAD REKI.png)
+![Flow Langflow](images/flow.png)
 
 ## 📝 Tampilan Prompt Template
-![Prompt Template](Prompt Template_MUHAMMAD REKI.png)
+![Prompt Template](images/prompt.png)
 
 ## 💬 Hasil Output
-![Hasil Output](images/Playground_MUHAMMAD REKI.png)
+![Hasil Output](images/output.png)
 
 ## 🎯 Use Case
 Bimbingan tugas akhir mahasiswa Politeknik Pertanian Negeri Payakumbuh
