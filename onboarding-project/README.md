@@ -18,8 +18,6 @@ Sistem bimbingan akademik berbasis RAG (Retrieval-Augmented Generation) yang ber
 7. **Language Model** - Generasi jawaban (Gemini)
 8. **Chat Output** - Output jawaban
 
-<<<<<<< HEAD
-=======
 ## 📸 Tampilan Flow Langflow
 ![Flow Langflow](images/flow.png)
 
@@ -28,7 +26,6 @@ Sistem bimbingan akademik berbasis RAG (Retrieval-Augmented Generation) yang ber
 
 ## 💬 Hasil Output
 ![Hasil Output](images/output.png)
->>>>>>> f4af691078418f8320b2353a76fcfc1fa8e8d22e
 
 ## 🎯 Use Case
 Bimbingan tugas akhir mahasiswa Politeknik Pertanian Negeri Payakumbuh
@@ -46,8 +43,4 @@ Muhammad Reki
 Juli 2026
 
 ---
-<<<<<<< HEAD
 📌 *Dibuat untuk memenuhi Capstone Project IBM SkillsBuild*
-=======
-📌 *Dibuat untuk memenuhi Capstone Project IBM SkillsBuild*
->>>>>>> f4af691078418f8320b2353a76fcfc1fa8e8d22e
